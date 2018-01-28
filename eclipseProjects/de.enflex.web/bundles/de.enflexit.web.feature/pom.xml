@@ -30,7 +30,7 @@
 
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
-				<version>2.4.3</version>
+				<version>3.0.2</version>
 				<executions>
 					<execution>
 						<id>copy-web-inf</id>
@@ -77,12 +77,12 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
-				<version>2.2-beta-5</version>
+				<version>3.1.0</version>
 				<configuration>
 					<descriptors>
 						<descriptor>assembly.xml</descriptor>
 					</descriptors>
-					<finalName>EnFlex.IT-WebApp</finalName>
+					<finalName>webApp</finalName>
 				</configuration>
 				<executions>
 					<execution>
