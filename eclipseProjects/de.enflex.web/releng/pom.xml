@@ -14,4 +14,6 @@
     	<module>de.enflexit.web.configuration</module>
     	<module>de.enflexit.web.target</module>
     </modules>
+    <groupId>de.enflexit.web</groupId>
+    <version>1.0.0-SNAPSHOT</version>
 </project>
