@@ -9,4 +9,6 @@
 
 	<artifactId>de.enflexit.web.target</artifactId>
 	<packaging>eclipse-target-definition</packaging>
+	<groupId>de.enflexit.web</groupId>
+	<version>1.0.0-SNAPSHOT</version>
 </project>
