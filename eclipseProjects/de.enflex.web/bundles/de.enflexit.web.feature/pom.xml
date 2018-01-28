@@ -83,6 +83,7 @@
 						<descriptor>assembly.xml</descriptor>
 					</descriptors>
 					<finalName>webApp</finalName>
+					<appendAssemblyId>false</appendAssemblyId>
 				</configuration>
 				<executions>
 					<execution>
