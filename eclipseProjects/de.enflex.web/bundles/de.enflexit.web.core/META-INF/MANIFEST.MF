@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: WebApp-Core
-Bundle-SymbolicName: de.enflexit.web.core
+Bundle-SymbolicName: de.enflexit.web.core;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Activator: de.enflexit.web.core.Activator
 Bundle-Vendor: EnFlex.IT
